@@ -1,14 +1,17 @@
-## Hi, I'm Alex Jaegook Kim! 👋  
+### Hi, I'm Alex Jaegook Kim! 👋
 
-I'm a ML Software Engineer at Apple passioante about **AI, Data Engineering, and Scalable Systems**
+🚀 **ML Software Engineer at Apple** | Passionate about **AI, Data Engineering, and Scalable Systems**  
 
-I enjoy building **ML models, optimizing large-scale data pipelines, and designing high-performance systems** to tackle **real-world AI challenges**.
+I enjoy building **ML models 🤖, optimizing large-scale data pipelines 📊, and designing high-performance systems ⚡** to tackle **real-world AI challenges**.  
 
-Please note that most of my work are under private company repositories.
+🔒 Most of my work is under private company repositories, but feel free to checkout my personal projects!  
 
-Feel free to connect with me!
+---
 
-### 📫 Feel free to connect with me!
-- **LinkedIn**: [linkedin.com/in/alexjgkim](https://linkedin.com/in/alexjgkim)  
-- **GitHub**: [github.com/alexjaegook](https://github.com/alexjaegook)  
-- **Email**: alexjaegook [at] gmail.com   
+### 📫 Connect with me!  
+📎 **LinkedIn**: [linkedin.com/in/alexjgkim](https://linkedin.com/in/alexjgkim)  
+📧 **Email**: alexjaegook [at] gmail.com  
+
+---
+
+Thanks for stopping by! 🚀  
