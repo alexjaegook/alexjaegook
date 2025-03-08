@@ -9,8 +9,8 @@ I enjoy building **ML models 🤖, optimizing large-scale data pipelines 📊, a
 ---
 
 ### 📫 Connect with me!  
-📎 **LinkedIn**: [linkedin.com/in/alexjgkim](https://linkedin.com/in/alexjgkim)  
-📧 **Email**: alexjaegook [at] gmail.com  
+📎 **LinkedIn**: [alexjgkim](https://linkedin.com/in/alexjgkim)  
+📧 **Email**: alexjaegook [at] gmail [dot] com  
 
 ---
 
