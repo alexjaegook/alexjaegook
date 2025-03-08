@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Alex Jaegook Kim! 👋  
 
-<!--
-**alexjaegook/alexjaegook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a ML Software Engineer at Apple passioante about **AI, Data Engineering, and Scalable Systems**
 
-Here are some ideas to get you started:
+I enjoy building **ML models, optimizing large-scale data pipelines, and designing high-performance systems** to tackle **real-world AI challenges**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please note that most of my work are under private company repositories.
+
+Feel free to connect with me!
+
+### 📫 Feel free to connect with me!
+- **LinkedIn**: [linkedin.com/in/alexjgkim](https://linkedin.com/in/alexjgkim)  
+- **GitHub**: [github.com/alexjaegook](https://github.com/alexjaegook)  
+- **Email**: alexjaegook [at] gmail.com   
